@@ -4,4 +4,3 @@ img.addEventListener("click", function () {
 
 });
 
-
